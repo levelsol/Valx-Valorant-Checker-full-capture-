@@ -1,1 +1,1 @@
-{"webhook": "", "SEND_UNSKINNED": false, "SEND_STATS": false, "SEND_WITH_THAT_SKIN": false, "SEND_ONLY_STATS": false}
+{"webhook": "https://discord.com/api/webhooks/1313371222653931551/39QygNa0zClSCQKTHlWuLam9WkOfidW7aCuXsYuyP0-sSGE6LwMyKG5YEQ42sBLZyp7W", "SEND_UNSKINNED": true, "SEND_STATS": true, "SEND_WITH_THAT_SKIN": true, "SEND_ONLY_STATS": true}
